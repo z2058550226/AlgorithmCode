@@ -41,4 +41,6 @@ public class BinarySearch {
         boolean b = true && false || true && true;
         System.out.println(b);
     }
+
+
 }

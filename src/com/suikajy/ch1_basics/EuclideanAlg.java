@@ -1,6 +1,6 @@
 package com.suikajy.ch1_basics;
 
-public class Main1 {
+public class EuclideanAlg {
 
     public static void main(String[] args) {
         System.out.println(gcd(6,9));
